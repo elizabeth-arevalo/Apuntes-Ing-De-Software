@@ -30,3 +30,18 @@ Las funciones **provienen** de:
 - Del código que uno escribe.
 - Librerías o módulos de los lenguajes de programación.
 
+## Tipos de Operadores.
+
+Aritméticos. Tales como suma, resta, multiplicación, división (+,-,*,/,//,**,%)
+Lógicos. AND, OR NOT (&&, ||, !)
+Comparación o relacionales (<,>,=,=>,<=,==,!=)
+Asignación(=,+=,-=,*=)
+
+## Variables.
+
+Es un espacio en la memoria de la computadora, donde se almacena un valor que podrá cambiar durante la ejecución de un programa.
+
+### Reglas de las variables.
+El nombre debe tener coherencia con lo que va a almacenar.
+No se debe llamar una variable igual a una palabra reservada del lenguaje de programación. 
+

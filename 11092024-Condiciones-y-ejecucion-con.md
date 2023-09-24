@@ -40,3 +40,20 @@ Python nos permite empezar dichos planes alternativos, esto se hace con una segu
     else
         do this if false
     ~~~
+
+### Sentencia Else ... if.
+Ahora sabemos lo que hacemos si se cumplen las condiciones, es como hacer un plan A, B y C.
+
+Python nos permite empezar dichos planes alternativos, esto se hace con una segunda forma ligeramente más compleja de la sentencia condicional. La sentencia **elif**, la cual es una contracción de **"else ... if".**
+Elif es una forma corta de la expresión "de lo contrario...".
+
+3. Sintaxis elif
+    ~~~
+    if true or false:
+        do this if true
+    elif true or false
+        do this if true
+    else
+        do this if both are false
+    ~~~
+Con la condicional **elif** se genera un if anidado, que no es otra cosa que una serie de condicionales que se pueden cumplir cuando se tienen 3 o más casos posibles en un problema, es importante señalar que quien rompe el anidamiento es el else.
